@@ -30,4 +30,7 @@
   var tompositif = 'Mau';
   var tomnegatif = 'Engga';
     
-    async function menuju(){pesanwhatsapp = "Makasii udah ngucapin " + nama + " ultah ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
+    async function menuju(){pesanwhatsapp = "Makasii udah ngucapin Aku  Ultah Ayang Cantik ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
+
+
+    // + untuk nambah nama otomatis +
